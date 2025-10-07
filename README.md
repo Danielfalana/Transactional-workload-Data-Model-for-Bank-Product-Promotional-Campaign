@@ -1,0 +1,1 @@
+# Transactional-workload-Data-Model-for-Bank-Product-Promotional-Campaign
